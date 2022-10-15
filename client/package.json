@@ -7,7 +7,7 @@
     "heroku-postbuild": "webpack -p --config ./webpack.prod.config.js --progress"
   },
   "author": "2U",
-  "license": "UNLICENSED",
+  "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/plugin-transform-runtime": "^7.15.0",
